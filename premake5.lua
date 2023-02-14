@@ -9,9 +9,9 @@ project "PugiXML"
 
 	files
 	{
-		"pugiconfig.hpp",
-        "pugixml.cpp",
-        "pugixml.hpp"
+		"src/pugiconfig.hpp",
+        "src/pugixml.cpp",
+        "src/pugixml.hpp"
 	}
 
 	filter "system:windows"
